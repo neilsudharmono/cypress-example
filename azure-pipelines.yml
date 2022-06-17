@@ -1,0 +1,37 @@
+
+
+trigger:
+  branches:
+    include:
+    - master
+
+pr:
+  branches:
+    include:
+    - '*'
+
+pool:
+  vmImage: 'ubuntu-latest'
+  demands: npm
+
+jobs:
+- job: Cypress
+  strategy:
+    parallel: 3
+  steps:
+  - task: Npm@1
+    displayName: 'npm install'
+    inputs:
+      workingDir: '$(Build.SourcesDirectory)'
+      verbose: false
+
+  - bash: 'npm run cy:verify'
+    displayName: 'Cypress Verify'
+
+  - bash: './node_modules/.bin/cypress run --headless --browser chrome --record --key 3849e444-1f35-4093-812a-0e446539932e --parallel --ci-build-id $(Build.BuildId)'
+    displayName: 'Cypress Run'
+
+  - task: PublishBuildArtifacts@1
+    displayName: 'Publish Artifact: drop'
+    continueOnError: true
+

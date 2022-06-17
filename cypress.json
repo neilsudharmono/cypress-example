@@ -1,0 +1,47 @@
+{
+    "projectId": "cbqqro",
+    "env": {
+        "uat": "https://clipspeccom-uat.azurewebsites.net/",
+        "showcase": "https://develop.clipspec.luminary.space/",
+        "dev":"https://clipspec-dev.azurefd.net/",
+        "prod": "-",
+        "api": "https://clipspec-dev.azurefd.net/",
+        "projectAPI":"https://clipspec-dev.azurefd.net/api",
+        "asyncTimeout ":4000,
+        "rotateValue" : 270.00,
+        "productTimeout":6000,
+        "userWaitForLoading":4000,
+        "floorplanWaitForLoading":6000,
+        "imageTimeout":3000,
+        "runBuilderTest" : true,
+        "runBusinessTest" : true,
+        "runProjectTest" : true,
+        "runShowcase" : false,
+        "runUserAccount": false,
+        "builderName" : "Builder Automation Testing",
+        "automationTestUser":"Admin Visionspec" ,
+        "businessName": "Coral Homes",
+        "projectName": "Automation",
+        "builderID" : "06aaebc6-40ac-4504-b718-0d33941bb46b",
+        "waitForLoading" : 3000,
+        "waitInviteUser" : 10000,
+        "delayType" : 300,
+        "floorplanScale" : 0.7,
+        "runCleanUp":false
+        
+      },
+    "baseUrl": "CENSORED",
+    "ignoreTestFiles":	["*.hot-update.js", "*.method.js"],
+    "defaultCommandTimeout" : 80000,
+    "taskTimeout": 120000,
+    "responseTimeout": 60000,    
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "experimentalSessionSupport":true,
+    "retries": {
+      "runMode": 2,
+      "openMode": 2
+    },
+    "chromeWebSecurity": false
+    
+}      
