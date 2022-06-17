@@ -1,0 +1,95 @@
+{
+  "status": "OK",
+  "code": 200,
+  "result": "Success",
+  "messages": null,
+  "requestId": null,
+  "dataType": "BuilderProductDetail",
+  "count": 1,
+  "items": [
+    {
+      "id": "39a80135-a0e0-4081-a7db-e7c0058798bc",
+      "isIncluded": true,
+      "colourGroupName": null,
+      "builderCatCode": null,
+      "builderProductDescription": null,
+      "builderPrice": 250,
+      "crossReferenceGroup": null,      
+      "notAvailableToAllBuilders": false,
+      "builder": {
+        "id": "7aaebbdc-6a60-40ff-9f1a-142e329fa0c2",
+        "name": "Clipsal Showroom",
+        "primaryAddressSuburb": "Marsden Park",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2765",
+        "primaryAddressHouseNumber": "Shop 14",
+        "primaryAddressStreet": "9 Hollinsworth Road",
+        "logo": null,
+        "isActive": true,
+        "contactUser": null,
+        "createdDateTimeUtc": "4/27/2020 11:56:54 PM"
+      },
+      "otherColorProducts": null,
+      "productChildItems": [],
+      "contractorPrices": [
+        {
+          "price": null,
+          "id": "815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "name": "Test User"
+        },
+        {
+          "price": null,
+          "id": "125bb014-ac0f-4c53-81e1-7e4d7a9835aa",
+          "name": "Default Contractor"
+        }
+      ],
+      "productDataType": "FinishedProduct",
+      "defaultDescription": "Automation test Spare Remote for Zen Fan",
+      "catCode": "ZFREMOTE",
+      "style": "Iconic",
+      "styleCode": "",
+      "substyle": "Style",
+      "colourFullName": "Vivid White",
+      "colour": "VW",
+      "stdCategory": "Fans",
+      "stdCategoryHexCode": "#13551D",
+      "commercialReference": "ZFREMOTE",
+      "tradePrice": "150",
+      "isActive": true,
+      "status": "status",
+      "statusDateTime": null,
+      "statusInfo": "statusInfo",
+      "productType": "productType",
+      "qty": 1,
+      "iconQuantity": 1,
+      "watts": 1,
+      "amp": 1,
+      "voltage": 1,
+      "requiredSeparateCircuit": false,
+      "phases": 1,
+      "cosCode": "",
+      "barcode": null,
+      "statisticalIndicator": "XX",
+      "image": {
+        "large": "https://clipspecclientassests.blob.core.windows.net/products/images/ZFREMOTE.jpg",
+        "medium": "https://clipspecclientassests.blob.core.windows.net/products/images/ZFREMOTE.jpg",
+        "small": "https://clipspecclientassests.blob.core.windows.net/products/images/ZFREMOTE.jpg",
+        "url": "/products/images/ZFREMOTE.jpg"
+      },
+      "consumerIcon": {
+        "large": "https://clipspecclientassests.blob.core.windows.net/products/icons/Remote.svg",
+        "medium": "https://clipspecclientassests.blob.core.windows.net/products/icons/Remote.svg",
+        "small": "https://clipspecclientassests.blob.core.windows.net/products/icons/Remote.svg",
+        "url": "/products/icons/Remote.svg"
+      },
+      "tradeIcon": {
+        "large": "https://clipspecclientassests.blob.core.windows.net/products/icons/Remote.svg",
+        "medium": "https://clipspecclientassests.blob.core.windows.net/products/icons/Remote.svg",
+        "small": "https://clipspecclientassests.blob.core.windows.net/products/icons/Remote.svg",
+        "url": "/products/icons/Remote.svg"
+      },
+      "stdSubcategory": "Accessories",
+      "connectSL": null
+    }
+  ]
+}

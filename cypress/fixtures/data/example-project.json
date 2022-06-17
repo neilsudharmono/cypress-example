@@ -1,0 +1,74 @@
+
+      {
+        "id": "033b9b31-b8cb-4719-979f-0093c80ed0cd",
+        "name": "UPDATED Automation Test Edit Project Metadata",
+        "buildingType": "House",
+        "suburb": "george town",
+        "state": "VIC",
+        "projectType": "NewBuild",
+        "inclusionCredit": 0,
+        "inclusionValue": 0,
+        "variationValue": 0,
+        "totalInclusion": 0,
+        "totalVariation": 0,
+        "totalElectrical": 0,
+        "totalFee": 0,
+        "builder": {
+          "id": "eb792d4b-3ab4-45d2-a8a0-037be1249fbb",
+          "name": "test builder 15 july",
+          "primaryAddressSuburb": "Bellfield",
+          "primaryAddressState": "ACT",
+          "primaryAddressPostcode": "2345",
+          "primaryAddressHouseNumber": "97",
+          "primaryAddressStreet": "Swanston Street",
+          "logo": null,
+          "isActive": true,
+          "contactUser": {
+            "id": "9c9e2715-c5d0-4755-f464-08d819646e0e",
+            "federatedId": null,
+            "firstName": "filya",
+            "lastName": "mustikawati",
+            "fullName": "filya mustikawati",
+            "state": null,
+            "phoneNumber": "0400000000",
+            "emailAddress": "filya@luminary.com",
+            "userStatus": 0,
+            "isActive": false,
+            "createdDateTimeUtc": "00010101T000000Z",
+            "lastModifiedDateTimeUtc": "20200804T085018Z",
+            "roles": null
+          },
+          "createdDateTimeUtc": "20200715T025226Z"
+        },
+        "primaryContact": {
+          "id": "d8b06230-f747-482c-8084-c0336aac017a",
+          "federatedId": null,
+          "firstName": "AT First - UP",
+          "lastName": "AT Last name -UP",
+          "fullName": "AT First - UP AT Last name -UP",
+          "state": null,
+          "phoneNumber": "0412345678",
+          "emailAddress": "sefizece@mailinator.com",
+          "userStatus": 0,
+          "isActive": false,
+          "createdDateTimeUtc": "20200720T090702Z",
+          "lastModifiedDateTimeUtc": "20200721T020335Z",
+          "roles": []
+        },
+        "consultant": null,
+        "status": {
+          "id": "5d78c41e-4231-4fef-ab3d-f21d0d7d5503",
+          "displayName": "Preparation",
+          "displayValue": "Preparation",
+          "codeName": "Preparation"
+        },
+        "image": {
+          "large": null,
+          "medium": null,
+          "small": null,
+          "url": null
+        },
+        "createdDateTimeUtc": "20200720T090702Z",
+        "lastModifiedDateTimeUtc": "20200721T020335Z",
+        "lastModifiedBy": "Test User"
+      }

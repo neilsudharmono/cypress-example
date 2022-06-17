@@ -1,0 +1,95 @@
+{
+	"code": 200,
+	"status": "OK",
+	"result": "Success",
+	"messages": null,
+	"requestId": null,
+	"dataType": "MasterSurchargeSummary",
+	"count": 99,
+	"items": [
+	  {
+		"id": "be9dfd7e-11e2-4eca-bea0-012d1e85d4ae",
+		"name": "1abNEW non FREESTANDING",
+		"description": "this is for testing",
+		"isFreeStanding": false,
+		"isActive": true
+	  },
+	  {
+		"id": "c971e734-6988-4c64-a364-53aabd9f38ab",
+		"name": "20JulFreeStanding",
+		"description": "20JulFreeStanding",
+		"isFreeStanding": true,
+		"isActive": true
+	  },
+	  {
+		"id": "0e82ac8c-9fcb-429c-a5d0-32e5b6c963ff",
+		"name": "20JulNONFreeStanding",
+		"description": "20JulNONFreeStanding",
+		"isFreeStanding": false,
+		"isActive": true
+	  },
+	  {
+		"id": "42c7fae4-6532-4077-b11d-f898253b13fa",
+		"name": "28AGSfreestanding",
+		"description": "28AGSfreestanding",
+		"isFreeStanding": true,
+		"isActive": true
+	  },
+	  {
+		"id": "595e1878-561d-4338-96ae-6e68bd3a4fa8",
+		"name": "28AGSnonfreestanding",
+		"description": "28AGSnonfreestanding",
+		"isFreeStanding": false,
+		"isActive": true
+	  },
+	  {
+		"id": "4ddf7afb-6409-46e7-ba2a-043f068f526d",
+		"name": "Allen test charge",
+		"description": "expensive",
+		"isFreeStanding": false,
+		"isActive": true
+	  },
+	  {
+		"id": "597da121-f840-4ced-bca6-385b1a9fe73b",
+		"name": "Brick Installation",
+		"description": "Installation of product into external brick-work",
+		"isFreeStanding": false,
+		"isActive": true
+	  },
+	  {
+		"id": "d8d69654-e102-4821-912b-85f3e1512e1e",
+		"name": "Free standing Surcharge",
+		"description": "Free standing Surcharge",
+		"isFreeStanding": true,
+		"isActive": true
+	  },
+	  {
+		"id": "cc16fec2-0d24-4a34-b364-cbe7a521c316",
+		"name": "Island Benchtop Installation",
+		"description": "Installation of a product into an island, requiring additional conduits.",
+		"isFreeStanding": false,
+		"isActive": true
+	  },
+	  {
+		"id": "3f4381af-9634-4a70-b844-44b1d997dbd8",
+		"name": "Neil Surcharges",
+		"description": "Neil Surcharges Desc",
+		"isFreeStanding": false,
+		"isActive": true
+	  },
+	  {
+		"id": "f2e4228b-e8b1-435e-ba50-8d7114c476f8",
+		"name": "Two Way Switching",
+		"description": "Two-way Switching for Lighting (FS)",
+		"isFreeStanding": true,
+		"isActive": true
+	  },
+	  {
+		"id": "4ac28a0d-72f3-4633-aa3e-98113082441e",
+		"name": "zzzzzz12121212",
+		"description": "Sample Surcharge from Automation testing",
+		"isFreeStanding": true,
+		"isActive": true
+	  }
+	]
+  }

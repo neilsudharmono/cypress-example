@@ -1,0 +1,68 @@
+{
+    "status":"OK",
+    "code":200,
+    "messages":null,
+    "requestId":null,
+    "dataType":"BuilderOverview",
+    "items":[
+       {
+          "id":"350bb003-ac45-4c53-8176-7e4d7a9836dd",
+          "businessAccountId":"125bb013-ac45-4c53-8176-7e4d7a9836dd",
+          "name":"Intelligent Homes",
+          "tradingName":"Intelligent Homes Ltd.",
+          "defaultStyle":"Iconic",
+          "defaultColour":"Vivid White (VW)",
+          "emailAddress":"intelligent@homes.com",
+          "phoneNumber":"04123456788",
+          "website":"http://intelligenthomes.com",
+          "primaryAddressCountry":"Australia",
+          "primaryAddressPostcode":"6017",
+          "primaryAddressState":"WA",
+          "primaryAddressLotNumber":"101",
+          "primaryAddressStreetName":"Lonsdale St.",
+          "primaryAddressSuburb":"Osborne Park",
+          "isPostalPrimaryAddressSame":false,
+          "postalAddressCountry":"Australia",
+          "postalAddressPostcode":"3181",
+          "postalAddressstate":"VIC",
+          "postalAddressLotNumber":"26",
+          "postalAddressStreetName":"Walters Dr",
+          "postalAddressSuburb":"Windham East",
+          "isActive":true,
+          "lastModifiedDateTimeUtc":"20191204T014643Z",
+          "lastModifiedBy":"Tony Duan",
+          "internalNotes":"Viverra justo nec ultrices dui. In hac habitasse platea dictumst vestibulum. Massa vitae tortor condimentum lacinia ",
+          "logo":{
+             "large":"https://dummyimage.com/500x370/aaa/fff.png",
+             "medium":"https://dummyimage.com/500x370/aaa/fff.png",
+             "small":"https://dummyimage.com/500x370/aaa/fff.png"
+          },
+          "contactUser":{
+             "id":"125bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+             "firstName":"Cian",
+             "lastName":"Mills",
+             "state":"QLD",
+             "phoneNumber":"0412345678",
+             "emailAddress":"Cian@gmail.com"
+          },
+          "builderUsers":[
+             {
+                "id":"125bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+                "firstName":"Cian",
+                "lastName":"Mills",
+                "state":"QLD",
+                "phoneNumber":"0412345678",
+                "emailAddress":"Cian@gmail.com"
+             },
+             {
+                "id":"815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+                "firstName":"Tony",
+                "lastName":"Duan",
+                "state":"NSW",
+                "phoneNumber":"0412312312",
+                "emailAddress":"Tony@Luminary.com"
+             }
+          ]
+       }
+    ]
+ }

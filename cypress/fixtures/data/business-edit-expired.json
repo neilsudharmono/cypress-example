@@ -1,0 +1,92 @@
+{
+    "status": "OK",
+    "code": 200,
+    "messages": null,
+    "requestId": null,
+    "dataType": "BusinessAccountDetail",
+    "count": null,
+    "items": [
+      {
+        "createdBy": null,
+        "createdDateTimeUtc": "20191204T232417Z",
+        "id": "125bb013-ac0f-4c53-8176-7e4d7a9836dd",
+        "name": "AUTOMATION TESTING EXPIRED account",
+        "phoneNumber": "04123456789",
+        "sapAccountNumber": "123456789",
+        "country": "Australia",
+        "postcode": "3166",
+        "state": "VIC",
+        "houseNumber": "176",
+        "street": "300 Rose St.",
+        "suburb": "Collingwood",
+        "internalNotes": "",
+        "isActive": true,
+        "canAdjustProductPrices": true,
+        "lastModifiedDateTimeUtc": "20191223T234511Z",
+        "lastModifiedBy": "Tony Duan",
+        "businessContract": {
+          "chargeType": "FlatFeePerProject",
+          "chargeValue": 12.25,
+          "chargePeriod": null,
+          "canGenerateInvoiceDetail": true,
+          "isExpiringSoon": false,
+          "id": "dcf93025-1153-49a9-b70e-29dd17878295",
+          "startDateTimeUtc": "20191101T000000Z",
+          "endDateTimeUtc": "20191231T000000Z",
+          "isActive": false
+        },
+        "contactUser": {
+          "id": "815bb033-ac0f-4c53-12e1-7e4d7a9836dd",
+          "firstName": "Morgan Update",
+          "lastName": "Robertson",
+          "phoneNumber": "0412345678",
+          "emailAddress": "Morgan@gmail.com",
+          "state": "NSW"
+        },
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/125bb013-ac0f-4c53-8176-7e4d7a9836dd/8d788022667b426/file/clipsallogopng.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/125bb013-ac0f-4c53-8176-7e4d7a9836dd/8d788022667b426/file/clipsallogopng.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/125bb013-ac0f-4c53-8176-7e4d7a9836dd/8d788022667b426/file/clipsallogopng.png",
+          "url": "/media/125bb013-ac0f-4c53-8176-7e4d7a9836dd/8d788022667b426/file/clipsallogopng.png",
+          "name": null,
+          "size": 0
+        },
+        "builders": [
+          {
+            "id": "325bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+            "name": "Intelligent Homes in Arandelle",
+            "primaryAddressSuburb": "Osborne Park 123",
+            "primaryAddressState": "VIC",
+            "primaryAddressPostcode": "3000",
+            "isActive": false,
+            "contactUser": {
+              "id": "125bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+              "firstName": "Cian",
+              "lastName": "Mills",
+              "state": "QLD",
+              "phoneNumber": "04123456783333",
+              "emailAddress": "Ciaaan@gmail.com"
+            }
+          }
+        ],
+        "businessAccountUsers": [
+          {
+            "id": "815bb033-ac0f-4c53-12e1-7e4d7a9836dd",
+            "firstName": "Morgan Update",
+            "lastName": "Robertson",
+            "state": "NSW",
+            "phoneNumber": "0412345678",
+            "emailAddress": "Morgan@gmail.com"
+          },
+          {
+            "id": "815bb033-ac0f-4c53-81e1-7e4d7a9836dd",
+            "firstName": "Edison",
+            "lastName": "Hart",
+            "state": "VIC",
+            "phoneNumber": "0412345678",
+            "emailAddress": "Edison@gmail.com"
+          }
+        ]
+      }
+    ]
+  }

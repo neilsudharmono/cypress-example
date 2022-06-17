@@ -1,0 +1,2091 @@
+{
+    "status": "OK",
+    "code": 200,
+    "messages": null,
+    "requestId": null,
+    "dataType": "BuilderSummary",
+    "count": 5,
+    "items": [
+      {
+        "id": "7aaebbdc-6a60-40ff-9f1a-142e329fa0c2",
+        "name": "Clipsal Showroom UAT",
+        "primaryAddressSuburb": "Marsden Park",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2765",
+        "primaryAddressHouseNumber": "Shop 14",
+        "primaryAddressStreet": "9 Hollinsworth Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "f616a8e5-29a8-4a59-612b-08d7eb0525df",
+          "firstName": "Francois",
+          "lastName": "Venter",
+          "fullName": "Francois Venter",
+          "state": "VIC",
+          "phoneNumber": "0812345678",
+          "emailAddress": "francois.venter@se.com"
+        },
+        "createdDateTimeUtc": "4/27/2020 11:56:01 PM"
+      },
+      {
+        "id": "167ac4b2-c306-477c-a856-2b913c2bf7b3",
+        "name": "Smart Homes NSW",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 12:43:50 AM"
+      },
+      {
+        "id": "d4060a2d-d088-4c5c-a65e-51c9a408727a",
+        "name": "iHomes VIC",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little collins street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 3:17:57 AM"
+      },
+      {
+        "id": "ccb2db5a-141a-415f-8928-91d29c460c89",
+        "name": "Stobo Homes VIC",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "100",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/20/2020 8:33:43 AM"
+      },
+      {
+        "id": "3248bdd0-3d0b-4079-9d1b-bb0a6afee08b",
+        "name": "Coral Homes NSW 1",
+        "primaryAddressSuburb": " Coffs Harbour",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "0b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/01/2020 15:20:19 AM"
+      },
+      {
+        "id": "3248bdd0-3d0b-4079-9d1b-bb0a6afee08a",
+        "name": "Coral Homes NSW 2",
+        "primaryAddressSuburb": " Coffs Harbour 1",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "0b6a39be-e31d-4d7b-13a0-08d7ea3f8b7s",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "3248bdd0-3d0b-4079-9d1b-bb0a6afee01d",
+        "name": "Coral Homes NSW 4",
+        "primaryAddressSuburb": " Coffs Harbour 3",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "0b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "3248bdd0-3d0b-4079-9d1b-bb0a6afee08f",
+        "name": "Coral Homes NSW 5",
+        "primaryAddressSuburb": " Coffs Harbour 4",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "0b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "3248bdd0-3d0b-4079-9d1b-bb0a6afee06f",
+        "name": "Coral Homes NSW 6",
+        "primaryAddressSuburb": " Coffs Harbour 5",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "0b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "3248bdd0-3d0b-4079-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 7",
+        "primaryAddressSuburb": " Coffs Harbour 7",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "0b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "3248bdd0-3d0b-4029-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 8",
+        "primaryAddressSuburb": " Coffs Harbour 8",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "0b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "27aaebbc-6a60-40ff-9f1a-142e329fa0c2",
+        "name": "Clipsal Showroom UAT 1a most recent",
+        "primaryAddressSuburb": "Marsden Park",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2765",
+        "primaryAddressHouseNumber": "Shop 14",
+        "primaryAddressStreet": "9 Hollinsworth Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "2f616a8e5-29a8-4a59-612b-08d7eb0525df",
+          "firstName": "Francois",
+          "lastName": "Venter",
+          "fullName": "Francois Venter",
+          "state": "VIC",
+          "phoneNumber": "0812345678",
+          "emailAddress": "francois.venter@se.com"
+        },
+        "createdDateTimeUtc": "5/27/2020 12:56:54 PM"
+      },
+      {
+        "id": "2167ac42-c306-477c-a856-2b913c2bf7b3",
+        "name": "Smart Homes NSW 1a",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "2815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 12:43:50 AM"
+      },
+      {
+        "id": "2d4060ad-d088-4c5c-a65e-51c9a408727a",
+        "name": "iHomes VIC 1a",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little collins street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "2815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 3:17:57 AM"
+      },
+      {
+        "id": "2ccb2dba-141a-415f-8928-91d29c460c89",
+        "name": "Stobo Homes VIC 1a",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "100",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "2815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/01/2020 8:39:43 AM"
+      },
+      {
+        "id": "23248bd0-3d0b-4079-9d1b-bb0a6afee08b",
+        "name": "Coral Homes NSW 1 1a",
+        "primaryAddressSuburb": " Coffs Harbour",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "20b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/02/2020 12:21:19 AM"
+      },
+      {
+        "id": "23248bd0-3d0b-4079-9d1b-bb0a6afee08a",
+        "name": "Coral Homes NSW 2 1a",
+        "primaryAddressSuburb": " Coffs Harbour 1",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "20b6a39be-e31d-4d7b-13a0-08d7ea3f8b7s",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "23248bd0-3d0b-4079-9d1b-bb0a6afee08d",
+        "name": "Coral Homes NSW 3 1a",
+        "primaryAddressSuburb": " Coffs Harbour 2",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "20b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "23248bd0-3d0b-4079-9d1b-bb0a6afee01d",
+        "name": "Coral Homes NSW 4 1a",
+        "primaryAddressSuburb": " Coffs Harbour 3",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "20b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "23248bd0-3d0b-4079-9d1b-bb0a6afee08f",
+        "name": "Coral Homes NSW 5 1a",
+        "primaryAddressSuburb": " Coffs Harbour 4",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "20b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "23248bd0-3d0b-4079-9d1b-bb0a6afee06f",
+        "name": "Coral Homes NSW 6 1a",
+        "primaryAddressSuburb": " Coffs Harbour 5",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "20b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "23248bd0-3d0b-4079-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 7 1a",
+        "primaryAddressSuburb": " Coffs Harbour 7",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "20b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "23248bd0-3d0b-4029-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 8 1a",
+        "primaryAddressSuburb": " Coffs Harbour 8",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "20b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "37aaebbc-6a60-40ff-9f1a-142e329fa0c2",
+        "name": "Clipsal Showroom UAT 1b-01 least recent",
+        "primaryAddressSuburb": "Marsden Park",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2765",
+        "primaryAddressHouseNumber": "Shop 14",
+        "primaryAddressStreet": "9 Hollinsworth Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "3f616a8e5-29a8-4a59-612b-08d7eb0525df",
+          "firstName": "Francois",
+          "lastName": "Venter",
+          "fullName": "Francois Venter",
+          "state": "VIC",
+          "phoneNumber": "0812345678",
+          "emailAddress": "francois.venter@se.com"
+        },
+        "createdDateTimeUtc": "1/29/2020 11:26:54 PM"
+      },
+      {
+        "id": "3167ac42-c306-477c-a856-2b913c2bf7b3",
+        "name": "Smart Homes NSW 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "3815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 12:43:50 AM"
+      },
+      {
+        "id": "3d4060ad-d088-4c5c-a65e-51c9a408727a",
+        "name": "iHomes VIC 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little collins street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "3815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 3:17:57 AM"
+      },
+      {
+        "id": "3ccb2dba-141a-415f-8928-91d29c460c89",
+        "name": "Stobo Homes VIC 11b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "100",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "3815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/20/2020 8:37:43 AM"
+      },
+      {
+        "id": "33248bd0-3d0b-4079-9d1b-bb0a6afee08b",
+        "name": "Coral Homes NSW 1 1b-1",
+        "primaryAddressSuburb": " Coffs Harbour",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "30b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 03:29:19 AM"
+      },
+      {
+        "id": "33248bd0-3d0b-4079-9d1b-bb0a6afee08a",
+        "name": "Coral Homes NSW 2 y1b",
+        "primaryAddressSuburb": " Coffs Harbour 1",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "30b6a39be-e31d-4d7b-13a0-08d7ea3f8b7s",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "33248bd0-3d0b-4079-9d1b-bb0a6afee08d",
+        "name": "Coral Homes NSW 3 y1b",
+        "primaryAddressSuburb": " Coffs Harbour 2",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "30b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "33248bd0-3d0b-4079-9d1b-bb0a6afee01d",
+        "name": "Coral Homes NSW 4 1b",
+        "primaryAddressSuburb": " Coffs Harbour 3",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "30b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "33248bd0-3d0b-4079-9d1b-bb0a6afee08f",
+        "name": "Coral Homes NSW 5 1b",
+        "primaryAddressSuburb": " Coffs Harbour 4",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "30b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "33248bd0-3d0b-4079-9d1b-bb0a6afee06f",
+        "name": "Coral Homes NSW 6 1b",
+        "primaryAddressSuburb": " Coffs Harbour 5",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "30b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "33248bd0-3d0b-4079-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 7 1b",
+        "primaryAddressSuburb": " Coffs Harbour 7",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "30b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "33248bd0-3d0b-4029-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 8 1b",
+        "primaryAddressSuburb": " Coffs Harbour 8",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "30b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      } ,    
+      {
+        "id": "47aaebbc-6a60-40ff-9f1a-142e329fa0c2",
+        "name": "Clipsal Showroom UAT 1b-02",
+        "primaryAddressSuburb": "Marsden Park",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2765",
+        "primaryAddressHouseNumber": "Shop 14",
+        "primaryAddressStreet": "9 Hollinsworth Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "4f616a8e5-29a8-4a59-612b-08d7eb0525df",
+          "firstName": "Francois",
+          "lastName": "Venter",
+          "fullName": "Francois Venter",
+          "state": "VIC",
+          "phoneNumber": "0812345678",
+          "emailAddress": "francois.venter@se.com"
+        },
+        "createdDateTimeUtc": "4/27/2020 11:36:54 PM"
+      },
+      {
+        "id": "4167ac42-c306-477c-a856-2b913c2bf7b3",
+        "name": "Smart Homes NSW 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "4815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 12:43:50 AM"
+      },
+      {
+        "id": "4d4060ad-d088-4c5c-a65e-51c9a408727a",
+        "name": "iHomes VIC 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little collins street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "4815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 3:17:57 AM"
+      },
+      {
+        "id": "4ccb2dba-141a-415f-8928-91d29c460c89",
+        "name": "Stobo Homes VIC 12b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "100",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "4815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/20/2020 8:36:43 AM"
+      },
+      {
+        "id": "43248bd0-3d0b-4079-9d1b-bb0a6afee08b",
+        "name": "Coral Homes NSW 1 1b-2",
+        "primaryAddressSuburb": " Coffs Harbour",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "40b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/09/2020 09:20:19 AM"
+      },
+      {
+        "id": "43248bd0-3d0b-4079-9d1b-bb0a6afee08a",
+        "name": "Coral Homes NSW 2 z1b",
+        "primaryAddressSuburb": " Coffs Harbour 1",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "40b6a39be-e31d-4d7b-13a0-08d7ea3f8b7s",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "43248bd0-3d0b-4079-9d1b-bb0a6afee08d",
+        "name": "Coral Homes NSW 3 z1b",
+        "primaryAddressSuburb": " Coffs Harbour 2",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "40b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "43248bd0-3d0b-4079-9d1b-bb0a6afee01d",
+        "name": "Coral Homes NSW 4 1b",
+        "primaryAddressSuburb": " Coffs Harbour 3",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "40b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "43248bd0-3d0b-4079-9d1b-bb0a6afee08f",
+        "name": "Coral Homes NSW 5 1b",
+        "primaryAddressSuburb": " Coffs Harbour 4",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "40b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "43248bd0-3d0b-4079-9d1b-bb0a6afee06f",
+        "name": "Coral Homes NSW 6 1b",
+        "primaryAddressSuburb": " Coffs Harbour 5",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "40b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "43248bd0-3d0b-4079-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 7 1c",
+        "primaryAddressSuburb": " Coffs Harbour 7",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "40b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "43248bd0-3d0b-4029-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 8 1b",
+        "primaryAddressSuburb": " Coffs Harbour 8",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "40b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "57aaebbc-6a60-40ff-9f1a-142e329fa0c2",
+        "name": "Clipsal Showroom UAT 1b-03",
+        "primaryAddressSuburb": "Marsden Park",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2765",
+        "primaryAddressHouseNumber": "Shop 14",
+        "primaryAddressStreet": "9 Hollinsworth Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "5f616a8e5-29a8-4a59-612b-08d7eb0525df",
+          "firstName": "Francois",
+          "lastName": "Venter",
+          "fullName": "Francois Venter",
+          "state": "VIC",
+          "phoneNumber": "0812345678",
+          "emailAddress": "francois.venter@se.com"
+        },
+        "createdDateTimeUtc": "4/27/2020 11:46:54 PM"
+      },
+      {
+        "id": "5167ac42-c306-477c-a856-2b913c2bf7b3",
+        "name": "Smart Homes NSW 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "5815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 12:43:50 AM"
+      },
+      {
+        "id": "5d4060ad-d088-4c5c-a65e-51c9a408727a",
+        "name": "iHomes VIC 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little collins street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "5815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 3:17:57 AM"
+      },
+      {
+        "id": "5ccb2dba-141a-415f-8928-91d29c460c89",
+        "name": "Stobo Homes VIC 13b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "100",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "5815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/20/2020 8:35:43 AM"
+      },
+      {
+        "id": "53248bd0-3d0b-4079-9d1b-bb0a6afee08b",
+        "name": "Coral Homes NSW 1 1b-3",
+        "primaryAddressSuburb": " Coffs Harbour",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "50b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "53248bd0-3d0b-4079-9d1b-bb0a6afee08a",
+        "name": "Coral Homes NSW 2 m1b",
+        "primaryAddressSuburb": " Coffs Harbour 1",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "50b6a39be-e31d-4d7b-13a0-08d7ea3f8b7s",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "53248bd0-3d0b-4079-9d1b-bb0a6afee08d",
+        "name": "Coral Homes NSW 3 w1b",
+        "primaryAddressSuburb": " Coffs Harbour 2",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "50b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "53248bd0-3d0b-4079-9d1b-bb0a6afee01d",
+        "name": "Coral Homes NSW 4 1b",
+        "primaryAddressSuburb": " Coffs Harbour 3",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "50b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "53248bd0-3d0b-4079-9d1b-bb0a6afee08f",
+        "name": "Coral Homes NSW 5 1b",
+        "primaryAddressSuburb": " Coffs Harbour 4",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "50b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "53248bd0-3d0b-4079-9d1b-bb0a6afee06f",
+        "name": "Coral Homes NSW 6 1b",
+        "primaryAddressSuburb": " Coffs Harbour 5",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "50b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "53248bd0-3d0b-4079-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 7 1d",
+        "primaryAddressSuburb": " Coffs Harbour 7",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "50b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "53248bd0-3d0b-4029-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 8 1b",
+        "primaryAddressSuburb": " Coffs Harbour 8",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "50b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "67aaebbc-6a60-40ff-9f1a-142e329fa0c2",
+        "name": "Clipsal Showroom UAT 1b-04",
+        "primaryAddressSuburb": "Marsden Park",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2765",
+        "primaryAddressHouseNumber": "Shop 14",
+        "primaryAddressStreet": "9 Hollinsworth Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "6f616a8e5-29a8-4a59-612b-08d7eb0525df",
+          "firstName": "Francois",
+          "lastName": "Venter",
+          "fullName": "Francois Venter",
+          "state": "VIC",
+          "phoneNumber": "0812345678",
+          "emailAddress": "francois.venter@se.com"
+        },
+        "createdDateTimeUtc": "4/27/2020 11:03:54 PM"
+      },
+      {
+        "id": "6167ac42-c306-477c-a856-2b913c2bf7b3",
+        "name": "Smart Homes NSW 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "6815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 12:43:50 AM"
+      },
+      {
+        "id": "6d4060ad-d088-4c5c-a65e-51c9a408727a",
+        "name": "iHomes VIC 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little collins street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "6815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 3:17:57 AM"
+      },
+      {
+        "id": "6ccb2dba-141a-415f-8928-91d29c460c89",
+        "name": "Stobo Homes VIC 14b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "100",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5063bd71966/download (1).jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "6815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/20/2020 8:35:43 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee08b",
+        "name": "Coral Homes NSW 1 1b-4",
+        "primaryAddressSuburb": " Coffs Harbour",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee08a",
+        "name": "Coral Homes NSW 2 x1b",
+        "primaryAddressSuburb": " Coffs Harbour 1",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b7s",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee08d",
+        "name": "Coral Homes NSW 3 x1b",
+        "primaryAddressSuburb": " Coffs Harbour 2",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee01d",
+        "name": "Coral Homes NSW 4 1b",
+        "primaryAddressSuburb": " Coffs Harbour 3",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee08f",
+        "name": "Coral Homes NSW 5 1b",
+        "primaryAddressSuburb": " Coffs Harbour 4",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee06f",
+        "name": "Coral Homes NSW 6 1b",
+        "primaryAddressSuburb": " Coffs Harbour 5",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 7 1e",
+        "primaryAddressSuburb": " Coffs Harbour 7",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4029-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 8 1b",
+        "primaryAddressSuburb": " Coffs Harbour 8",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "77aaebbc-6a60-40ff-9f1a-142e329fa0c2",
+        "name": "Clipsal Showroom UAT 1b-05",
+        "primaryAddressSuburb": "Marsden Park",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2765",
+        "primaryAddressHouseNumber": "Shop 14",
+        "primaryAddressStreet": "9 Hollinsworth Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7eb06a933ec03/clipsal-powerhouse_2011.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "7f616a8e5-29a8-4a59-612b-08d7eb0525df",
+          "firstName": "Francois",
+          "lastName": "Venter",
+          "fullName": "Francois Venter",
+          "state": "VIC",
+          "phoneNumber": "0812345678",
+          "emailAddress": "francois.venter@se.com"
+        },
+        "createdDateTimeUtc": "4/27/2020 11:16:54 PM"
+      },
+      {
+        "id": "7167ac42-c306-477c-a856-2b913c2bf7b3",
+        "name": "Smart Homes NSW 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little Collins Street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e58d0f45a0ed/smart-home.jpg"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "6815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 12:43:50 AM"
+      },
+      {
+        "id": "6d4060ad-d088-4c5c-a65e-51c9a408727a",
+        "name": "iHomes VIC 1b",
+        "primaryAddressSuburb": "Melbourne",
+        "primaryAddressState": "VIC",
+        "primaryAddressPostcode": "3000",
+        "primaryAddressHouseNumber": "195",
+        "primaryAddressStreet": "Little collins street",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7e5a296c756d7/smart-home-ii.png"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "6815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Test",
+          "lastName": "User",
+          "fullName": "Test User",
+          "state": "VIC",
+          "phoneNumber": "1300554891",
+          "emailAddress": "TestUser@luminary.com"
+        },
+        "createdDateTimeUtc": "4/21/2020 3:17:57 AM"
+      },      
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee08b",
+        "name": "Coral Homes NSW 1 1b",
+        "primaryAddressSuburb": " Coffs Harbour",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/09/2020 02:20:19 AM"
+      },            
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee01d",
+        "name": "Coral Homes NSW 4 1b",
+        "primaryAddressSuburb": " Coffs Harbour 3",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee08f",
+        "name": "Coral Homes NSW 5 1b",
+        "primaryAddressSuburb": " Coffs Harbour 4",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "63248bd0-3d0b-4079-9d1b-bb0a6afee06f",
+        "name": "Coral Homes NSW 6 1b",
+        "primaryAddressSuburb": " Coffs Harbour 5",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "60b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "73248bd0-3d0b-4079-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 7 1f",
+        "primaryAddressSuburb": " Coffs Harbour 7",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "70b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      },
+      {
+        "id": "73248bd0-3d0b-4029-9d1b-kb0a6afee06f",
+        "name": "Coral Homes NSW 8 1b",
+        "primaryAddressSuburb": " Coffs Harbour 8",
+        "primaryAddressState": "NSW",
+        "primaryAddressPostcode": "2259",
+        "primaryAddressHouseNumber": "2",
+        "primaryAddressStreet": "Eyre Road",
+        "logo": {
+          "large": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "medium": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "small": "https://clipspecassetsuat.blob.core.windows.net/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG",
+          "url": "/media/00000000-0000-0000-0000-000000000000/8d7ea40c3e95399/coral homes.JPG"
+        },
+        "isActive": true,
+        "contactUser": {
+          "id": "70b6a39be-e31d-4d7b-13a0-08d7ea3f8b76",
+          "firstName": "Head",
+          "lastName": "Manager",
+          "fullName": "Head Manager",
+          "state": "VIC",
+          "phoneNumber": "123456789",
+          "emailAddress": "customer.carex@coralhomes.com.au"
+        },
+        "createdDateTimeUtc": "4/27/2020 12:20:19 AM"
+      }
+
+    ]
+  }

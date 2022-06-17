@@ -1,0 +1,134 @@
+{
+  "code": 200,
+  "status": "OK",
+  "result": "Success",
+  "messages": null,
+  "requestId": null,
+  "dataType": "BusinessAccountDetail",
+  "count": 1,
+  "items": [
+    {
+      "id": "125bb013-ac0f-4c53-8176-7e4d7a9836dd",
+      "name": "Wisdom Homes AUTOMATION",
+      "phoneNumber": "04123456789",
+      "sapAccountNumber": "12345678900",
+      "country": "Australia",
+      "postcode": "3166",
+      "state": "VIC",
+      "houseNumber": "176",
+      "street": "300 Rose St.",
+      "suburb": "Collingwood",
+      "internalNotes": "",
+      "isActive": true,
+      "canAdjustProductPrices": true,
+      "lastModifiedDateTimeUtc": "20200707T054657Z",
+      "lastModifiedBy": "Test User",
+      "businessContract": {
+        "chargeType": "FlatFeePerProject",
+        "chargeValue": "12.25",
+        "chargePeriod": null,
+        "canGenerateInvoiceDetail": true,
+        "isExpiringSoon": false,
+        "id": "98d2303a-211d-42bb-841a-1486d67d963d",
+        "startDateTimeUtc": "20200320T000000Z",
+        "endDateTimeUtc": "20210420T000000Z",
+        "isActive": true
+      },
+      "contactUser": {
+        "id": "815bb033-ac0f-4c53-8111-7e4d7a9836dd",
+        "federatedId": null,
+        "firstName": "Cassius",
+        "lastName": "West",
+        "fullName": "Cassius West",
+        "state": "VIC",
+        "phoneNumber": "0412345678",
+        "emailAddress": "Cassius@gmail.com",
+        "userStatus": "Pending",
+        "isDeleted": false,
+        "createdDateTimeUtc": "20200630T010133Z",
+        "lastModifiedDateTimeUtc": "20200707T054657Z",
+        "userRoles": null
+      },
+      "logo": {
+        "large": "https://clipspecassetsdev.blob.core.windows.net/https://dummyimage.com/500x370/aaa/fff.png",
+        "medium": "https://clipspecassetsdev.blob.core.windows.net/https://dummyimage.com/500x370/aaa/fff.png",
+        "small": "https://clipspecassetsdev.blob.core.windows.net/https://dummyimage.com/500x370/aaa/fff.png",
+        "url": "/https://dummyimage.com/500x370/aaa/fff.png"
+      },
+      "builders": [
+        {
+          "id": "325bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "name": "Wisdom Homes",
+          "primaryAddressSuburb": "Gregory Hills",
+          "primaryAddressState": "NSW",
+          "primaryAddressPostcode": "2557",
+          "primaryAddressHouseNumber": "17-19",
+          "primaryAddressStreet": "Central Hills Dr",
+          "logo": null,
+          "isActive": true,
+          "contactUser": {
+            "id": "815bb033-ac0f-4c53-8111-7e4d7a9836dd",
+            "federatedId": null,
+            "firstName": "Cassius",
+            "lastName": "West",
+            "fullName": "Cassius West",
+            "state": "VIC",
+            "phoneNumber": "0412345678",
+            "emailAddress": "Cassius@gmail.com",
+            "userStatus": "0",
+            "isDeleted": false,
+            "createdDateTimeUtc": "20200630T010133Z",
+            "lastModifiedDateTimeUtc": "20200707T054657Z",
+            "roles": null
+          },
+          "createdDateTimeUtc": "20200630T010133Z"
+        },
+        {
+          "id": "203c059a-1b39-4ba5-b81e-8734c5378dab",
+          "name": "Builder Account Test",
+          "primaryAddressSuburb": "melbourne",
+          "primaryAddressState": "VIC",
+          "primaryAddressPostcode": "3166",
+          "primaryAddressHouseNumber": "01",
+          "primaryAddressStreet": "FULL COMPLETE ADDRESS",
+          "logo": null,
+          "isDeleted": false,
+          "contactUser": null,
+          "createdDateTimeUtc": "20200710T072645Z"
+        },
+        {
+          "id": "d62a913b-58d6-4ad4-b240-a8014805fbed",
+          "name": "FILYA TESTER new builder test",
+          "primaryAddressSuburb": "BALI",
+          "primaryAddressState": "VIC",
+          "primaryAddressPostcode": "3000",
+          "primaryAddressHouseNumber": "101",
+          "primaryAddressStreet": "Level 1, 195 Little Collins St",
+          "logo": null,
+          "isDeleted": false,
+          "contactUser": null,
+          "createdDateTimeUtc": "20200707T054801Z"
+        }
+      ],
+      "businessAccountUsers": [
+        {
+          "id": "815bb033-ac0f-4c53-8111-7e4d7a9836dd",
+          "federatedId": null,
+          "firstName": "Cassius",
+          "lastName": "West",
+          "fullName": "Cassius West",
+          "state": "VIC",
+          "phoneNumber": "0412345678",
+          "emailAddress": "Cassius@gmail.com",
+          "userStatus": "0",
+          "isDeleted": false,
+          "createdDateTimeUtc": "20200630T010133Z",
+          "lastModifiedDateTimeUtc": "20200707T054657Z",
+          "roles": null
+        }
+      ],
+      "createdBy": "",
+      "createdDateTimeUtc": "20200630T010133Z"
+    }
+  ]
+}

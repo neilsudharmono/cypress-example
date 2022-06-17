@@ -1,0 +1,34 @@
+{
+    "id": "60232a23-089c-4182-8e21-0286103f2d7c",
+    "defaultDescription": "Default Description",
+    "catCode": "Cat Code",
+    "style": "Iconic",
+    "colour": "Vivid White",
+    "category": "STD Category",
+    "commercialReference": "3046C-WY",
+    "isActive" : true,
+    "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "medium": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "small": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "url": "Single Icon",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.net3P_underground",
+        "medium": "https://clipspecassetsuat.blob.core.windows.net3P_underground",
+        "small": "https://clipspecassetsuat.blob.core.windows.net3P_underground",
+        "url": "3P_underground",
+        "name": null,
+        "size": 0
+      }
+}

@@ -1,0 +1,105 @@
+{ 
+  "status":"OK",
+  "code":200,
+  "messages":null,
+  "requestId":null,
+  "dataType":"ProjectsListingItem",
+  "items":[ 
+     { 
+        "id":"0d0ba821-788f-4180-b454-5e11b1d6ba7a",
+        "projectName":"FILYA FILYA FILYA",
+        "builderName":"Metricon VIC",
+        "clientName":"test test",
+        "consultantName":"",
+        "projectStatusId":"5d78c41e-4231-4fef-ab3d-f21d0d7d5502",
+        "projectStatusDisplayName":"Created",
+        "buildingSuburb":"test",
+        "buildingstate":"test",
+        "inclusionsValue":0.00,
+        "variationsValue":0.00,
+        "totalElectricalValue":0.00,
+        "projectType":"set",
+        "buildingType":"test",
+        "projectImage":{ 
+           "large":"https://dummyimage.com/500x370/aaa/fff.png",
+           "medium":"https://dummyimage.com/500x370/aaa/fff.png",
+           "small":"https://dummyimage.com/500x370/aaa/fff.png"
+        },
+        "createdTimestamp":"1571165268.522237",
+        "lastModifiedTimestamp":"1571165268.5222406",
+        "modifiedBy":"Test User"
+     },
+     { 
+        "id":"6f2f154b-e5a6-4e2f-ba0d-7c4339ce2290",
+        "projectName":"GALEA 5828",
+        "builderName":"Metricon NSW",
+        "clientName":"Ashli Trayhorn",
+        "consultantName":"Cassi Robinet",
+        "projectStatusId":"07c201fe-a492-4a8e-9630-6cab0ed1cebc",
+        "projectStatusDisplayName":"Created",
+        "buildingSuburb":"Melbourne",
+        "buildingstate":"VIC",
+        "inclusionsValue":1000.00,
+        "variationsValue":1000.00,
+        "totalElectricalValue":1000.00,
+        "projectType":"Renovation",
+        "buildingType":"Unit",
+        "projectImage":{ 
+           "large":"https://dummyimage.com/500x370/aaa/fff.png",
+           "medium":"https://dummyimage.com/500x370/aaa/fff.png",
+           "small":"https://dummyimage.com/500x370/aaa/fff.png"
+        },
+        "createdTimestamp":"1570124797.0294783",
+        "lastModifiedTimestamp":"1571078797.0294795",
+        "modifiedBy":"Test User"
+     },
+     { 
+        "id":"31612b59-253c-4630-8b37-869f23ed2036",
+        "projectName":"WN46725",
+        "builderName":"Metricon VIC",
+        "clientName":"Mick Edmondson",
+        "consultantName":"Laura Perett",
+        "projectStatusId":"5d78c41e-4231-4fef-ab3d-f21d0d7d5502",
+        "projectStatusDisplayName":"Created",
+        "buildingSuburb":"Melbourne",
+        "buildingstate":"VIC",
+        "inclusionsValue":5235.39,
+        "variationsValue":2691.80,
+        "totalElectricalValue":4799.78,
+        "projectType":"New build",
+        "buildingType":"House",
+        "projectImage":{ 
+           "large":"https://dummyimage.com/500x370/aaa/fff.png",
+           "medium":"https://dummyimage.com/500x370/aaa/fff.png",
+           "small":"https://dummyimage.com/500x370/aaa/fff.png"
+        },
+        "createdTimestamp":"1564422397.0293884",
+        "lastModifiedTimestamp":"1568051197.0294333",
+        "modifiedBy":"Test User"
+     },
+     { 
+        "id":"91dfa142-42c0-47ce-8ee4-bd49e81ea7f2",
+        "projectName":"test",
+        "builderName":"Metricon VIC",
+        "clientName":"test test",
+        "consultantName":"",
+        "projectStatusId":"5d78c41e-4231-4fef-ab3d-f21d0d7d5502",
+        "projectStatusDisplayName":"Created",
+        "buildingSuburb":"test",
+        "buildingstate":"test",
+        "inclusionsValue":0.00,
+        "variationsValue":0.00,
+        "totalElectricalValue":0.00,
+        "projectType":"set",
+        "buildingType":"test",
+        "projectImage":{ 
+           "large":"https://dummyimage.com/500x370/aaa/fff.png",
+           "medium":"https://dummyimage.com/500x370/aaa/fff.png",
+           "small":"https://dummyimage.com/500x370/aaa/fff.png"
+        },
+        "createdTimestamp":"1571222045.0789468",
+        "lastModifiedTimestamp":"1571222045.078993",
+        "modifiedBy":"Test User"
+     }
+  ]
+}

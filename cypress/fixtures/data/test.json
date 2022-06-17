@@ -1,0 +1,18 @@
+{
+  "id": "d3cee30f-affb-414c-b480-8a7eedba6731",
+  "name": "Builder Automation Testing",
+  "primaryAddressSuburb": "Melbourne ",
+  "primaryAddressState": "QLD",
+  "primaryAddressPostcode": "3000",
+  "primaryAddressHouseNumber": "334",
+  "primaryAddressStreet": "Level 1, 195 Little Collins St",
+  "logo": {
+    "large": "https://clipspec-assets-dev.luminary.delivery/media/00000000-0000-0000-0000-000000000000/8d8216df6195b10/Example_of_large_home_in_Southlake.jfif",
+    "medium": "https://clipspec-assets-dev.luminary.delivery/media/00000000-0000-0000-0000-000000000000/8d8216df6195b10/Example_of_large_home_in_Southlake.jfif",
+    "small": "https://clipspec-assets-dev.luminary.delivery/media/00000000-0000-0000-0000-000000000000/8d8216df6195b10/Example_of_large_home_in_Southlake.jfif",
+    "url": "/media/00000000-0000-0000-0000-000000000000/8d8216df6195b10/Example_of_large_home_in_Southlake.jfif"
+  },
+  "isActive": true,
+  "contactUser": null,
+  "createdDateTimeUtc": "20200706T053224Z"
+}

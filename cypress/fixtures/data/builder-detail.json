@@ -1,0 +1,73 @@
+{
+  "status": "OK",
+  "code": 200,
+  "result": "Success",
+  "messages": null,
+  "requestId": null,
+  "dataType": "BuilderDetail",
+  "count": 1,
+  "items": [
+    {
+      "canAdjustProductPrices": true,
+      "standardDisclaimer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus quam id leo in vitae turpis massa sed elementum. Massa placerat duis ultricies lacus sed turpis tincidunt. ",
+      "projectComments": "Viverra justo nec ultrices dui. In hac habitasse platea dictumst vestibulum. Massa vitae tortor condimentum lacinia quis vel eros donec. A cras semper auctor neque vitae tempus. Cursus metus aliquam eleifend mi in nulla. ",
+      "id": "963217d6-4922-46ee-b66c-03983d0408ec",
+      "businessAccountId": "125bb013-ac0f-4c53-8176-7e4d7a9836dd",
+      "name": "Builder Account Test",
+      "tradingName": "Builder Account Test",
+      "defaultStyle": "Iconic",
+      "defaultColour": "Vivid White (VW)",
+      "emailAddress": "wisdom@homes.com",
+      "phoneNumber": "04123456789",
+      "website": "http://wisdomhomes.com",
+      "primaryAddressCountry": "Australia",
+      "primaryAddressPostcode": "3166",
+      "primaryAddressState": "VIC",
+      "primaryAddressHouseNumber": "01",
+      "primaryAddressStreet": "FULL COMPLETE ADDRESS",
+      "primaryAddressSuburb": "melbourne",
+      "isPostalPrimaryAddressSame": false,
+      "postalAddressCountry": "Other",
+      "postalAddressPostcode": "3000",
+      "postalAddressstate": "VIC",
+      "postalAddressHouseNumber": "332",
+      "postalAddressStreet": "this postal address different with primary address",
+      "postalAddressSuburb": "george suburb",
+      "isActive": true,
+      "lastModifiedDateTimeUtc": "20191208T041911Z",
+      "lastModifiedBy": "Tony Duan",
+      "internalNotes": " this is internal notes ",
+      "logo": {
+        "large": "https://dummyimage.com/500x370/aaa/fff.png",
+        "medium": "https://dummyimage.com/500x370/aaa/fff.png",
+        "small": "https://dummyimage.com/500x370/aaa/fff.png"
+      },
+      "contactUser": {
+        "id": "125bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+        "firstName": "Morgan Update",
+        "lastName": "Robertson",
+        "state": "QLD",
+        "phoneNumber": "0412345678",
+        "emailAddress": "Morgan@gmail.com"
+      },
+      "builderUsers": [
+        {
+          "id": "815bb033-ac0f-4c53-12e1-7e4d7a9836dd",
+          "firstName": "Morgan",
+          "lastName": "Robertson",
+          "state": "NSW",
+          "phoneNumber": "0412345678",
+          "emailAddress": "Morgan@gmail.com"
+        },
+        {
+          "id": "815bb013-ac0f-4c53-81e1-7e4d7a9836dd",
+          "firstName": "Tony",
+          "lastName": "Duan",
+          "state": "NSW",
+          "phoneNumber": "0412312312",
+          "emailAddress": "Tony@Luminary.com"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "status": "OK",
+  "code": 200,
+  "messages": null,
+  "requestId": null,
+  "dataType": "ProductListingItem",
+  "count": 846,
+  "items": [
+    {
+      "id": "489b9304-eb74-4708-8ed0-0a3e28c97dd9",
+      "defaultDescription": "THIS First Default Description",
+      "catCode": "THIS First Cat Code",
+      "style": "Iconic",
+      "colour": "Vivid White",
+      "category": "STD Category",
+      "commercialReference": "S40STR-SV",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "medium": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "small": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "url": "Single Icon",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "2c8be54a-9b1c-45b0-9978-101010038de1",
+      "defaultDescription": "Dolly Rocker STUDY SV -001",
+      "catCode": "S40STR-001",
+      "style": "Iconic",
+      "colour": "Silver",
+      "category": "-Component",
+      "commercialReference": "S40STR-SV-001",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "medium": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "small": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "url": "test",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "84c2e56c-30b7-4523-9438-126615e4cc8a",
+      "defaultDescription": "second Default Description",
+      "catCode": "second page product listing",
+      "style": "Iconic",
+      "colour": "Vivid White",
+      "category": "STD Category",
+      "commercialReference": "S40STR-SH",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "medium": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "small": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "url": "Single Icon",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "68fde299-8e2e-40a2-9279-37b72f7a9927",
+      "defaultDescription": "Dolly Rocker STUDY SH",
+      "catCode": "S40STR lower case",
+      "style": "Iconic",
+      "colour": "Silver Shadow",
+      "category": "-Component",
+      "commercialReference": "S40STR-SH",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "medium": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "small": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "url": "test",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "68129ab6-e905-45df-907e-5273d61c48a0",
+      "defaultDescription": "third Default Description",
+      "catCode": "AAA First CR Asc third Cat Code",
+      "style": "Iconic",
+      "colour": "Vivid White",
+      "category": "AAA STD Category",
+      "commercialReference": "AAA S40STR-CE",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "medium": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "small": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "url": "Single Icon",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "d020e069-aa24-4165-9d73-48a36a26762c",
+      "defaultDescription": "Dolly Rocker STUDY CE",
+      "catCode": "S40STR UPPER CASE",
+      "style": "Iconic",
+      "colour": "Crowne",
+      "category": "-Component",
+      "commercialReference": "S40STR-CE",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "medium": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "small": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "url": "test",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "e71fb252-01f8-4f24-9ae8-ea03cb8f89d6",
+      "defaultDescription": "fourth Default Description",
+      "catCode": "ZZZ First CR Desc fourth Cat Code",
+      "style": "Iconic",
+      "colour": "Vivid White",
+      "category": "ZZZ STD Category",
+      "commercialReference": "ZZZ S40RSM3KB-SV",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "medium": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "small": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "url": "Single Icon",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "3f8f3c09-5361-4a75-a757-e35cb4339d11",
+      "defaultDescription": "Kit Knob Rotary OFF-1-2-3 SV",
+      "catCode": "S40RSM3KB",
+      "style": "Iconic",
+      "colour": "Silver",
+      "category": "-Component",
+      "commercialReference": "S40RSM3KB-SV",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "medium": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "small": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "url": "test",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "f34e94de-4dd4-4a35-96dc-2f134f56f832",
+      "defaultDescription": "fifth Default Description",
+      "catCode": "fifth Cat Code",
+      "style": "Iconic",
+      "colour": "Vivid White",
+      "category": "STD Category",
+      "commercialReference": "S40RSM3KB-SH",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "medium": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "small": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "url": "Single Icon",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "b1081815-ac83-454f-84c4-44551ca6d544",
+      "defaultDescription": "Kit Knob Rotary OFF-1-2-3 SH",
+      "catCode": "S40RSM3KB",
+      "style": "Iconic",
+      "colour": "Silver Shadow",
+      "category": "-Component",
+      "commercialReference": "S40RSM3KB-SH",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "medium": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "small": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "url": "test",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "441340c0-e0d2-454d-a54e-9fee37be7561",
+      "defaultDescription": "sixth Default Description",
+      "catCode": "sixth Cat Code",
+      "style": "Iconic",
+      "colour": "Vivid White",
+      "category": "STD Category",
+      "commercialReference": "S40RSM3KB-CE",
+      "isActive": true,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "medium": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "small": "https://clipspecassetsuat.blob.core.windows.netSingle Icon",
+        "url": "Single Icon",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    },
+    {
+      "id": "ff25518a-7587-471e-9ee1-3765f788b4c2",
+      "defaultDescription": "Kit Knob Rotary OFF-1-2-3 CE",
+      "catCode": "Cat Code Deactive S40RSM3KB",
+      "style": "Iconic",
+      "colour": "Crowne",
+      "category": "-Component",
+      "commercialReference": "S40RSM3KB-CE",
+      "isActive": false,
+      "image": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      },
+      "consumerIcon": {
+        "large": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "medium": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "small": "https://clipspecassetsuat.blob.core.windows.nettest",
+        "url": "test",
+        "name": null,
+        "size": 0
+      },
+      "tradeIcon": {
+        "large": null,
+        "medium": null,
+        "small": null,
+        "url": null,
+        "name": null,
+        "size": 0
+      }
+    }
+  ]
+}
